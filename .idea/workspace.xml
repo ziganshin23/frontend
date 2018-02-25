@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec485f19-79ee-47ec-b69b-7daa5b649c53" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/appveyor.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/lib/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/dotenv/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-env/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-env/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-env/dist/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-env/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/process-env/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -167,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519550140268</updated>
-      <workItem from="1519550141595" duration="6419000" />
+      <workItem from="1519550141595" duration="6512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6419000" />
+    <option name="totallyTimeSpent" value="6512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1586" y="0" width="1628" height="1714" extended-state="0" />

@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "set NODE_ENV=production && node app && node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
