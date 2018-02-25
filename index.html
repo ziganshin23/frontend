@@ -1,17 +1,15 @@
-'use strict';
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>
+    I love u, Leo!
+    143
+</h1>
 
-const http = require('http');
-const fs = require('fs');
-
-const server = http.createServer(function (request, response){
-    console.log(request.method, request.url);
-    if(request.url == '/style.css'){
-        const css = fs.readFileSync('style.css', 'utf8');
-        response.end(css);
-    }else {
-        const html = fs.readFileSync('index.html', 'utf8');
-        response.end(html);
-    }
-});
-server.listen(3000);
-console.log('Server started!');
+</body>
+</html>
